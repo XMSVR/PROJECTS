@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "ps:item/blood_moon/sword/netherite"
+  }
+}

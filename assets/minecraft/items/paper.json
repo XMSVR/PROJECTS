@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/paper"
+    },
+    "entries": [
+      {
+        "threshold": 35,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/paper_old_1"
+        }
+      },
+      {
+        "threshold": 36,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/paper_old_2"
+        }
+      },
+      {
+        "threshold": 37,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/paper_old_3"
+        }
+      },
+      {
+        "threshold": 831,
+        "model": {
+          "type": "model",
+          "model": "mypack:item/2_old_paper",
+          "upper_bound": 830
+        }
+      }
+    ]
+  }
+}
