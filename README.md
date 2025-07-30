@@ -9,6 +9,7 @@
 ![LifebreakerAxe/CankıranBalta](assets/ps/textures/item/lifebreaker_axe.png)
 ![NinjaSword/NinjaKılıcı](assets/ps/textures/item/ninja_sword.png)
 ![FastTravel/HızlıSeyehat](assets/ps/textures/item/fast_travel.png)
+![Crystal trowel/Kristal mala](assets/ps/textures/item/trowel/crystal_trowel.png)
 
 
 ![Archaeologist_fishing_rod/ArkeologOltası](assets/ps/textures/item/fishing_rod/archaeologist_fishing_rod.png)
