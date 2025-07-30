@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/fishing_rod"
+    },
+    "entries": [
+      {
+        "threshold": 687,
+        "model": {
+          "type": "model",
+          "model": "ps:item/fishing_rod/farmer_fishing_rod"
+        }
+      },
+      {
+        "threshold": 735,
+        "model": {
+          "type": "model",
+          "model": "ps:item/fishing_rod/archaeologist_fishing_rod"
+        }
+      },
+      {
+        "threshold": 747,
+        "model": {
+          "type": "model",
+          "model": "ps:item/fishing_rod/carbonfiber_fishing_rod"
+        }
+      },
+      {
+        "threshold": 683,
+        "model": {
+          "type": "model",
+          "model": "ps:item/fishing_rod/master_fishing_rod"
+        }
+      },
+            {
+        "threshold": 767,
+        "model": {
+          "type": "model",
+          "model": "ps:item/fishing_rod/patience_rod"
+        }
+      },
+                  {
+        "threshold": 685,
+        "model": {
+          "type": "model",
+          "model": "ps:item/fishing_rod/commercial_fishing_rod"
+        }
+      }
+    ]
+  }
+}
