@@ -10,6 +10,7 @@
 ![NinjaSword/NinjaKılıcı](assets/ps/textures/item/ninja_sword.png)
 ![FastTravel/HızlıSeyehat](assets/ps/textures/item/fast_travel.png)
 ![Crystal trowel/Kristal mala](assets/ps/textures/item/trowel/crystal_trowel.png)
+![Resource paper/Araştırma sayfası/parçası](assets/ps/textures/item/paper/resource_paper.png)
 
 
 ![Archaeologist_fishing_rod/ArkeologOltası](assets/ps/textures/item/fishing_rod/archaeologist_fishing_rod.png)

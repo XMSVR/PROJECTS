@@ -32,8 +32,7 @@
         "threshold": 831,
         "model": {
           "type": "model",
-          "model": "mypack:item/2_old_paper",
-          "upper_bound": 830
+          "model": "ps:item/paper/resource_paper"
         }
       }
     ]
