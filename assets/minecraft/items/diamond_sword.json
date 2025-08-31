@@ -13,6 +13,13 @@
           "type": "model",
           "model": "ps:item/blood_moon/sword/diamond"
         }
+      },
+      {
+        "threshold": 1094,
+        "model": {
+          "type": "model",
+          "model": "ps:item/ocean_sword"
+        }
       }
     ]
   }

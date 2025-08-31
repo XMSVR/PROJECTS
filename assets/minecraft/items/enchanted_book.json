@@ -1,0 +1,58 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:stored_enchantments",
+        "cases": [
+            {
+                "when": {
+                    "minecraft:protection": 4
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/protection_4"
+                }
+            },
+             {
+                "when": {
+                    "minecraft:looting": 3
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/looting_3"
+                }
+            },
+                    {
+                "when": {
+                    "minecraft:mending": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/mending_1"
+                }
+            },
+            {
+                "when": {
+                    "minecraft:unbreaking": 3
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/unbreaking_3"
+                }
+            },
+                  {
+                "when": {
+                    "minecraft:sharpness": 5
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/sharpness_5"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/enchanted_book"
+        }
+    }
+}
