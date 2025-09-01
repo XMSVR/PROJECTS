@@ -2,10 +2,6 @@
   "model": {
     "type": "range_dispatch",
     "property": "custom_model_data",
-    "fallback": {
-      "type": "model",
-      "model": "minecraft:item/paper"
-    },
     "entries": [
       {
         "threshold": 35,
@@ -29,12 +25,58 @@
         }
       },
       {
+        "threshold": 41,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/zombie_parchment_1"
+        }
+      },
+      {
+        "threshold": 42,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/zombie_parchment_2"
+        }
+      },
+      {
+        "threshold": 43,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/zombie_parchment_3"
+        }
+      },
+            {
+        "threshold": 44,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/skeleton_parchment_1"
+        }
+      },
+      {
+        "threshold": 45,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/skeleton_parchment_2"
+        }
+      },
+      {
+        "threshold": 46,
+        "model": {
+          "type": "model",
+          "model": "ps:item/paper/skeleton_parchment_3"
+        }
+      },
+      {
         "threshold": 831,
         "model": {
           "type": "model",
           "model": "ps:item/paper/resource_paper"
         }
       }
-    ]
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/paper"
+    }
   }
 }

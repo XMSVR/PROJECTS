@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "ps:item/book/sharpness_5"
+        "layer0": "ps:item/book/protection/protection_2"
     }
 }

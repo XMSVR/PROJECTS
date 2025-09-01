@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "ps:item/knight/knight_helmet"
+    "layer0": "ps:item/paper/zombie_parchment_1"
   }
 }
