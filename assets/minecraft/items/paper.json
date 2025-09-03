@@ -72,6 +72,13 @@
           "type": "model",
           "model": "ps:item/paper/resource_paper"
         }
+      },
+           {
+        "threshold": 832,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/paper"
+        }
       }
     ],
     "fallback": {

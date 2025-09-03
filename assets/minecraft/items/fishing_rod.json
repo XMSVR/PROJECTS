@@ -48,6 +48,13 @@
           "type": "model",
           "model": "ps:item/fishing_rod/commercial_fishing_rod"
         }
+      },
+      {
+        "threshold": 768,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/fishing_rod"
+        }
       }
     ]
   }

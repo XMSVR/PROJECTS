@@ -13,6 +13,20 @@
           "type": "model",
           "model": "ps:item/trowel/crystal_trowel"
         }
+      },
+      {
+        "threshold": 342,
+        "model": {
+          "type": "model",
+          "model": "ps:item/trowel/enchanted_crystal_trowel"
+        }
+      },
+      {
+        "threshold": 343,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/amethyst_shard"
+        }
       }
     ]
   }

@@ -13,6 +13,13 @@
           "type": "model",
           "model": "ps:item/fast_travel"
         }
+      },
+      {
+        "threshold": 189,
+        "model": {
+          "type": "model",
+          "model": "minecraft:item/saddle"
+        }
       }
     ]
   }

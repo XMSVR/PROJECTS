@@ -12,6 +12,7 @@
 ![FastTravel/HızlıSeyehat](assets/ps/textures/item/fast_travel.png)
 ![Crystal trowel/Kristal mala](assets/ps/textures/item/trowel/crystal_trowel.png)
 ![Resource paper/Araştırma sayfası/parçası](assets/ps/textures/item/paper/resource_paper.png)
+<img src="assets/ps/textures/block/oltacila.png" alt="fishing_rod_repair_kit/OltaTamirKiti" width="16" height="16">
 
 
 ![OldPaper1/EskimişSayfa1](assets/ps/textures/item/paper/paper_old_1.png)
@@ -21,10 +22,13 @@
 ![skeleton_parchment_1/iskelet_parsomen_1](assets/ps/textures/item/paper/skeleton_parchment_1.png)
 ![skeleton_parchment_2/iskelet_parsomen_2](assets/ps/textures/item/paper/skeleton_parchment_2.png)
 ![skeleton_parchment_3/iskelet_parsomen_3](assets/ps/textures/item/paper/skeleton_parchment_3.png)
-
 ![zombie_parchment_1/zombi_parsomen_1](assets/ps/textures/item/paper/zombie_parchment_1.png)
 ![zombie_parchment_2/zombi_parsomen_2](assets/ps/textures/item/paper/zombie_parchment_2.png)
 ![zombie_parchment_3/zombi_parsomen_3](assets/ps/textures/item/paper/zombie_parchment_3.png)
+
+
+![herobrine_pachment/herobrine_parsomen](assets/ps/textures/item/pattern/herobrine_banner_pattern.png)
+![zombie_king_pachment/zombi_kral_parsomen](assets/ps/textures/item/pattern/zombie_king_banner_pattern.png)
 
 
 ![Archaeologist_fishing_rod/ArkeologOltası](assets/ps/textures/item/fishing_rod/archaeologist_fishing_rod.png)
@@ -47,6 +51,11 @@
 ![Looting1/Ganimet1](assets/ps/textures/item/book/looting/looting_1.png)
 ![Looting2/Ganimet2](assets/ps/textures/item/book/looting/looting_2.png)
 ![Looting3/Ganimet3](assets/ps/textures/item/book/looting/looting_3.png)
+
+
+![sweeping_edge_1/SupurucuKenar1](assets/ps/textures/item/book/sweeping/sweeping_edge_1.png)
+![sweeping_edge_2/SupurucuKenar2](assets/ps/textures/item/book/sweeping/sweeping_edge_2.png)
+![sweeping_edge_3/SupurucuKenar3](assets/ps/textures/item/book/sweeping/sweeping_edge_3.png)
 
 ![Protection1/Koruma1](assets/ps/textures/item/book/protection/protection_1.png)
 ![Protection2/Koruma2](assets/ps/textures/item/book/protection/protection_1.png)

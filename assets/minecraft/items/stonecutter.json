@@ -4,21 +4,21 @@
     "property": "custom_model_data",
     "fallback": {
       "type": "model",
-      "model": "minecraft:item/trident"
+      "model": "minecraft:block/stonecutter"
     },
     "entries": [
       {
-        "threshold": 169,
+        "threshold": 673,
         "model": {
           "type": "model",
-          "model": "ps:item/trident"
+          "model": "ps:block/fishing_rod_repair_kit"
         }
       },
-       {
-        "threshold": 170,
+      {
+        "threshold": 674,
         "model": {
           "type": "model",
-          "model": "minecraft:item/trident"
+          "model": "minecraft:block/stonecutter"
         }
       }
     ]

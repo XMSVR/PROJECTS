@@ -147,6 +147,33 @@
                     "type": "minecraft:model",
                     "model": "ps:item/book/sharpness/sharpness_5"
                 }
+            },
+                    {
+                "when": {
+                    "minecraft:sweeping_edge": 1
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/sweeping/sweeping_edge_1"
+                }
+            },
+            {
+                "when": {
+                    "minecraft:sweeping_edge": 2
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/sweeping/sweeping_edge_2"
+                }
+            },
+            {
+                "when": {
+                    "minecraft:sweeping_edge": 3
+                },
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "ps:item/book/sweeping/sweeping_edge_3"
+                }
             }
         ],
         "fallback": {
